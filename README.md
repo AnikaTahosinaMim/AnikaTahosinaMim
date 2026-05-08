@@ -1,116 +1,76 @@
-<img width="1983" height="793" alt="ChatGPT Image May 8, 2026, 10_46_26 PM" src="https://github.com/user-attachments/assets/aa2e26b6-93f5-4713-8737-6e5b401dac3a" />
-# 🚀 Awesome Project Name
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+24219
+Fork on GitHub
+8340
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&color=6e5494&labelColor=302d41" alt="Stars">
-  <img src="https://img.shields.io/github/forks/username/repo?style=for-the-badge&logo=github&color=6e5494&labelColor=302d41" alt="Forks">
-  <img src="https://img.shields.io/github/issues/username/repo?style=for-the-badge&logo=github&color=ff69b4&labelColor=302d41" alt="Issues">
-  <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge&logo=github&color=f9e2af&labelColor=302d41" alt="License">
-</p>
+back to edit
 
-<p align="center">
-  <b>A short, punchy description of what this project does. Make it sound exciting!</b>
-  <br />
-  <a href="https://your-demo-link.com"><strong>Explore the docs »</strong></a>
-  <br />
-  <br />
-  <a href="https://your-demo-link.com">View Demo</a>
-  ·
-  <a href="https://github.com/username/repo/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/username/repo/issues">Request Feature</a>
-</p>
+copy-markdown
 
----
+download markdown
 
-## 🎨 Overview
+download backup
 
-Provide a brief overview of your project. Explain the problem it solves and why you built it. Use bold text for emphasis and keep it professional but engaging.
+markdown
+<h1 align="center">Hi 👋, I'm Anika Tahosina Mim</h1>
+<h3 align="center">A frontend developer</h3>
 
-> [!TIP]
-> Use this section to highlight the "Unique Selling Point" of your project.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikatahosinamim&label=Profile%20views&color=0e75b6&style=flat" alt="anikatahosinamim" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikatahosinamim" alt="anikatahosinamim" /></a> </p>
 
-## ✨ Features
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌟 **Feature One**: Description of how cool this feature is.
-- ⚡ **Performance**: Built with speed and efficiency in mind.
-- 📱 **Responsive**: Works perfectly on any screen size.
-- 🛠️ **Customizable**: Easy to tweak and make your own.
-- 🔒 **Secure**: Industry-standard security practices followed.
+- 🌱 I’m currently learning **Expressjs**
 
----
+- 👨‍💻 All of my projects are available at [https://my-portfolio-phi-rose-33.vercel.app/](https://my-portfolio-phi-rose-33.vercel.app/)
 
-## 🛠️ Tech Stack
+- 💬 Ask me about **react,next.js**
 
+- 📫 How to reach me **ummehabiba19758@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anika-tahosina-mim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anika-tahosina-mim/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/anikatahosinamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anikatahosinamim" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 🚀 Getting Started
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikatahosinamim&show_icons=true&locale=en&layout=compact" alt="anikatahosinamim" /></p>
 
-### Prerequisites
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikatahosinamim&show_icons=true&locale=en" alt="anikatahosinamim" /></p>
 
-- Node.js (v18+)
-- npm or yarn
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikatahosinamim&" alt="anikatahosinamim" /></p>
 
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/username/repo.git
-   ```
-2. Install dependencies
-   ```bash
-   npm install
-   ```
-3. Set up environment variables
-   ```bash
-   cp .env.example .env.local
-   ```
-4. Run the development server
-   ```bash
-   npm run dev
-   ```
-
----
-
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/800x450" width="400" /> | <img src="https://via.placeholder.com/250x500" width="150" /> |
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/username/repo](https://github.com/username/repo)
-
----
-
-<p align="center">
-  Developed with ❤️ by <a href="https://your-portfolio.com">Your Name</a>
-</p>
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me a Coffee
