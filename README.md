@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikatahosinamim&label=Profile%20views&color=0e75b6&style=flat" alt="anikatahosinamim" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,js,nextjs**
+-🌸 About Me
+🌱 Currently learning Express.js & MongoDB
+💻 Love building modern UI
+🎯 Goal: Become a Full Stack Developer
+⚡ Fun fact: I love coding late at night 🌙
 
 - 📫 How to reach me **ummehabiba19758@gmail.com**
 
