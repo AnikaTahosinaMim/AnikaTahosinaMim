@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="ChatGPT Image May 8, 2026, 10_46_26 PM" src="https://github.com/user-attachments/assets/aa2e26b6-93f5-4713-8737-6e5b401dac3a" />
 <img src="YOUR_IMAGE_LINK" width="100%" /><img width="1281" height="1600" alt="WhatsApp Image 2026-04-21 at 3 46 46 PM" src="https://github.com/user-attachments/assets/66b9c91b-7ac2-4fcf-beee-97e624bcbc51" />
 
 <h1 align="center">Hi 👋, I'm Anika Tahosina Mim</h1>
