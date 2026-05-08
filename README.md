@@ -7,12 +7,12 @@
 ![Uploading ChatGPT Image May 8, 2026, 10_46_26 PM.png…]()
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anikatahosinamim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AnikaTahosinaMim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anikatahosinamim" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AnikaTahosinaMim alt="trophies" />
   </a>
 </p>
 
@@ -57,15 +57,15 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikatahosinamim&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnikaTahosinaMim&layout=compact" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anikatahosinamim&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnikaTahosinaMim&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikatahosinamim" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikaTahosinaMim" />
 </p>
 
 ---
