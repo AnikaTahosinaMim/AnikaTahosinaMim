@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/your-image-link/banner.png" alt="banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Anika Tahosina Mim</h1>
 <h3 align="center">Frontend Developer</h3>
 
