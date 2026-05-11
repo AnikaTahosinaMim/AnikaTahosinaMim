@@ -153,11 +153,9 @@ width="23%" />
 
 # 📊 GitHub Stats
 
-![Anika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnikaTahosinaMim&theme=radical&hide_border=false&include_all_commits=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AnikaTahosinaMim&theme=radical&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaTahosinaMim&theme=radical&layout=compact&hide_border=false)
+<p align="start">
+  <img src="https://streak-stats.demolab.com?user=AnikaTahosinaMim&theme=tokyonight" />
+</p>
 
 ---
 
