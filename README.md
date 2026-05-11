@@ -1,4 +1,3 @@
-````md
 <img width="100%" src="https://github.com/user-attachments/assets/db96d216-2665-4421-82ad-b91864407cd2" />
 
 <h1 align="center">Hi 👋, I'm Anika Tahosina Mim</h1>
@@ -173,4 +172,3 @@ width="23%" />
 [![](https://visitcount.itsvg.in/api?id=AnikaTahosinaMim&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Created with ❤️ by Anika Tahosina Mim -->
-````
